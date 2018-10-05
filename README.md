@@ -1,3 +1,9 @@
+# Todo
+* [ ] Decide which language to use(NodeJS or Python)←_←
+* [ ] QRCode Wechat login feature
+* [ ] People&chat&group puppet creation
+* [ ] Message text content forwarding
+* [ ] (?)Sqlite database creation
 # Features and Roadmap
 * Matrix → Wechat
   * [ ] Message content (text, formatting, Attachment, Audio, Contact, Emoticon, Image, Video, Url, etc..)
