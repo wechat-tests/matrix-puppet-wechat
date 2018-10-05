@@ -1,6 +1,6 @@
 # Features and Roadmap
 * Matrix → Wechat
-  * [ ] Message content (text, formatting, files, etc..)
+  * [ ] Message content (text, formatting, Attachment, Audio, Contact, Emoticon, Image, Video, Url, etc..)
   * [ ] Message deletions
   * [ ] Message history
   * [ ] Avatars
@@ -18,7 +18,7 @@
     * [ ] Initial displayname/username/avatar at register
     * [ ] Changes to displayname/avatar
 * Wechat → Matrix
-  * [ ] Message content (text, formatting, files, etc..)
+  * [ ] Message content (text, formatting, Attachment, Audio, Contact, Emoticon, Image, Video, Url, etc..)
   * [ ] Message deletions
   * [ ] Message history
   * [ ] Avatars
