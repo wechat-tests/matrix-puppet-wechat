@@ -3,7 +3,6 @@
   * [ ] Message content (text, formatting, Attachment, Audio, Contact, Emoticon, Image, Video, Url, etc..)
   * [ ] Message deletions
   * [ ] Message history
-  * [ ] Avatars
   * [ ] Membership actions (invite/kick/join/leave)
   * [ ] Chat(2-members room) metadata changes
     * [ ] Title
