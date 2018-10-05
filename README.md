@@ -1,4 +1,4 @@
-# Todo
+# TBW
 * [ ] Decide which language to use(NodeJS or Python)←_←
 * [ ] QRCode Wechat login feature
 * [ ] People&chat&group puppet creation
